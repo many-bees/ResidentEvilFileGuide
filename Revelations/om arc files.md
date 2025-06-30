@@ -5,6 +5,7 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om1a04 - Dead guy in chair
 * om1a05 - Dead ooze
 * om1a06 - Dead ooze
+* om1b1a - Computer screens
 
 
 
