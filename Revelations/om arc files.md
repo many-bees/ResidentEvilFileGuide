@@ -6,7 +6,16 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om1a05 - Dead ooze
 * om1a06 - Dead ooze
 * om1b1a - Computer screens
-
+* om1b2a - Computer screen that says "download"
+* om1b2b - Red computer screens showing ship and "seal bulkheads"
+* om1b16 - Turned off computer screen and yellow computer screen
+* om1b20 - Screen showing diagram of Queen Zenobia
+* om1b21 - Two yellow screens
+* om1b27 - ditto
+* om1b28 - Big red screen that says "EMERGENCY"
+* om100a - Rough metal door with yellow hazard sign
+* om100d - Unused yellow door with blurry Japanese text on it
+* om100e - Unused yellow double door with blurry Japanese text on it
 
 
 
