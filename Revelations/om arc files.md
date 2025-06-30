@@ -16,6 +16,11 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om100a - Rough metal door with yellow hazard sign
 * om100d - Unused yellow door with blurry Japanese text on it
 * om100e - Unused yellow double door with blurry Japanese text on it
+* om100f - Unused yellow door with blurry Japanese text on it
+* om101a - Metal door with red plaque
+* om101c - Metal door with rounded top
+* om101d - Bigg wooden double doors from beach
+* om101f - Smooth sliding metal double doors (used in lab?)
 
 
 
