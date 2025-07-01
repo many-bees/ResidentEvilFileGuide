@@ -21,17 +21,29 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om101c - Metal door with rounded top
 * om101d - Bigg wooden double doors from beach
 * om101f - Smooth sliding metal double doors (used in lab?)
-
-
-
-### line break
-* om1402 - Fully rigged choppy ocean
-* om1404 - Dead rachael
-* om101f - Elevator doors
-* om202a - Elevator doors blue
-* om102b - Heavy duty doors with pistons
-* om102c - Stainless steel elevator doors
-* om102d - Rusty elevator doors
-* om104a - Anchor door
+* om102a - Big blue sliding metal double doors
+* om102b - Hydraulic sliding double doors
+* om102c - Metal sliding double doors with two big horizontal decals
+* om102d - Metal double doors with vertical poles
+* om102e - Wooden door
+* om102f - Unused pink door with japanese text and file name written on it
+* om103a - Yellowish metal door (Kitchen?)
+* om103b - Narrow metal double door with yellow/black stripes on the inner edges
+* om103c - Invisible wooden double doors, possibly missing arc file containing texures
+* om103d - Metal door
+* om103e - Rusty metal door with bars, used in bilge
+* om103f - Metal door
+* * om104a - Anchor door
 * om104b - Trident door
 * om104c - Life preserver door
+* om120a - Dead ooze pile
+* om120b - Locker door
+* om120c - Raid mode BSAA emblam
+* 
+
+
+
+### aaaaaaa
+* om1402 - Fully rigged choppy ocean
+* om1404 - Dead rachael
+
