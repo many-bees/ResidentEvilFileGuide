@@ -1,1 +1,7 @@
-
+ - s0100 - Prison
+ - s0101 - Prison
+ - s0102 - Forest
+ - s0151 - Prison
+ - s0152 - Forest
+ - s0153 - Shore
+ - s0154 - Forest
