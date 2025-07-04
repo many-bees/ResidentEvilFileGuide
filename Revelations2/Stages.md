@@ -5,3 +5,7 @@
  - s0152 - Forest
  - s0153 - Shore
  - s0154 - Forest
+ - s0201 - Village
+ - s0203 - Tunnels and city
+   - s0203_03 - Restaurant diner cafeteria thing (interior)
+ - 
