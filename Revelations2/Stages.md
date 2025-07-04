@@ -8,4 +8,16 @@
  - s0201 - Village
  - s0203 - Tunnels and city
    - s0203_03 - Restaurant diner cafeteria thing (interior)
+ - s0250 - Forest area, episode 1 ending shack
+ - s0251 - Village
+ - s0253 - City
+ - s0254 - Concrete tower
+ - s0300 - Factory
+ - s0301 - Sewers I think
+ - s0303 - Tower, Alex lab
+ - s0306 - City? Area near city?
+ - s0351 - Sewers
+ - s0352 - More sewers?
+ - s0354 - Rusty area, canyon filled with pipes
+ - s0400 - Alex Tower
  - 
