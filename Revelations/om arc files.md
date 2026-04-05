@@ -107,7 +107,7 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om1022 - Fancy golden elevator doors
 * om1024 - Big off white slab door
 * om1025 - Rusted bulkhead door
-* om1026 - Clean metal door
+* om1026 - Clean metal double doors
 * om1027 - Wheel door
 * om1028 - Sci-fi trident door
 * om1029 - Metal elevator? door with six squares
