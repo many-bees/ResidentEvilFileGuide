@@ -120,10 +120,138 @@ Eventaully I hope to have these sorted by category but they're all just loose in
 * om1037 - Wide double wooden doors
 * om1038 - Rough metal door with red sign
 * om1039 - Blue metal double doors
-
-
-
-### aaaaaaa
+* om1040 - Wooden door
+* om1041 - Metal door with circular window
+* om1042 - Life preserver double doors
+* om1043 - Round elevator wall
+* om1044 - Rusted metal door with pistons and yellow signs
+* om1045 - Round elevator wall
+* om1046 - Bulkhead door
+* om1047 - Metal double doors with red signs
+* om1048 - Wheel door
+* om1049 - Life preserver door
+* om1100 - Bloody window (Rachael death?)
+* om1103 - Window and shattered window
+* om1106 - Three windows and broken windows
+* om1200 - Locker door
+* om1202 - Wooden crate
+* om1203 - Red gasoline can that explodes when you shoot it
+* om1204 - Red barrel
+* om1205 - Veltro item box
+* om1206 - Door with two panels
+* om1207 - Food stall
+* om1300 - Long rope with metal eight
+* om1301 - long rope attacked to metal beam with end laying on floor
+* om1302 - Gas mask
+* om1303 - Small boat!
+* om1305 - Orange cube unused
+* om1306 - ditto
+* om1307 - ditto
+* om1308 - ditto
+* om1313 - ditto
+* om1314 - Cell phone or remote control or some sort of other device
+* om1328 - Artillary holder with wheels
+* om1400 - Shirtless Chris mannequin
 * om1402 - Fully rigged choppy ocean
-* om1404 - Dead rachael
+* om1403 - Wide metal door with red hand sign on it
+* om1404 - Dead rachael!
+* om1405 - Metal grate
+* om1406 - AC vent
+* om1407 - Big bell
+* om1408 - AC vent
+* om1410 - Big globster flesh lump
+* om1411 - ditto
+* om1412 - ditto
+* om1413 - ditto
+* om1417 - Larrge metal device with multiple parts all pointing towards center
+* om1418 - Unused blue cube
+* om1420 - Metal grate
+* om1421 - Slashed wall
+* om1423 - Rat!
+* om1425 - Lifeboat
+* om1431 - Lifeboat holder?
+* om1433 - Metal door
+* om1434 - Green metal door
+* om1435 - Invisible planes
+* om1437 - Oil slick?
+* om1439 - Jill's gear
+* om1440 - Metal floor?
+* om1441 - Open notebook
+* om1443 - Big meat
+* om1444 - Cell phone device thing
+* om1445 - Wooden crate
+* om1446 - Green cell phone device
+* om1447 - AC vent
+* om1449 - Arowana
+* om1500 - White letter B on a light grey background
+* om1501 - Wooden crate
+* om1503 - Airplane
+* om1505 - Five inward facing arches
+* om1510 - Miscellaneous shape
+* om1511 - Casino emission stuff
+* om1512 - Casino fountain water
+* om1513 - Many metal garage door things
+* om1514 - Jill room TV
+* om1515 - Invisible square
+* om1516 - Wheel door LOD
+* om1517 - Wooden golden door LOD
+* om1518 - Throne
+* om1519 - TV static in corner
+* om1520 - Paper with writing on it
+* om1521 - Clipboard
+* om1600 - Door chains with red lock
+* om1606 - Wooden side table
+* om1610 - Two metal half-rings for holding shotgunq
+* om1614 - Red valve wheel
+* om1615 - Unused pink cube
+* om1618 - Metal garage door
+* om1622 - Metal bars door
+* om1623 - Metal garage door
+* om1624 - Veltro safe
+* om1625 - Painting
+* om1626 - Toilet lid with screwdriver
+* om1630 - Metal plate to remove with screwdriver
+* om1631 - Giant compass needle?
+* om1632 - Metal door with biohazard sign
+* om1633 - Four sets of pistons
+* om1634 - Casino roulette wheel
+* om1635 - Lasers
+* om1636 - Handprint
+* om1637 - Metal trapdoor with chains and red lock
+* om1638 - Safe door?
+* om1639 - Fingerprint scanner?
+* om1640 - Invisible rectangle
+* om1641 - Invisible square arch
+* om1642 - Golden chains and lock
+* om1643 - Metal fence grate
+* om1644 - Wide golden chains with lock
+* om1645 - rusted red valve wheel
+* om1646 - Red rectangle
+* om1647 - Black rectangle
+* om1648 - Lasers
+* om1649 - Lasers
+* om1704 - No model file
+* om1705 - Scagdead trap
+* om1706 - Scagdead trap
+* om1800 - Large elevator
+* om1801 - Golden Elevator
+* om1802 - Elevator
+* om1803 - Bilge elevator
+* om1805 - Small boat?!
+* om1806 - Elevator with red capret
+* om1807 - Elevator
+* om1808 - Wheel door transition hallway
+* om1809 - ditto
+* om1811 - Partial helicopter
+* om1813 - Full helicopter
+* om1814 - Elevator
+* om1815 - Old rusted wooden elevator
+* om1816 - Invisible square
+* om1817 - ditto
+* om1818 - Circular elevator
+* om1819 - Many invisible squares
+* om1900 - Red lever
+* om1901 - ditto
+* om1905 - Bilge key
+* om1920 - Wall with a bit of floor and diagonal roof
 
